@@ -10,5 +10,5 @@
     <javac srcdir= "${src.java.dir}" dstdir="${result.javaclasses.dir}" debug="true" includeantruntime="false">
       </javac>
       </target>
-      </projct>
+      </project>
  
